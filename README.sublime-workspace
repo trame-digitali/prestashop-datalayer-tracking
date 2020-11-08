@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cart",
+				"carthash"
+			],
+			[
+				"weeken",
+				"www.weekendinitaly.com\t(mail.class.php)"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"Client",
+				"ClientWii\t(ClientWii.php)"
+			],
+			[
+				"weeke",
+				"www.weekendinitaly.com\t(mail.class.php)"
+			],
+			[
+				"macro",
+				"macroCategory"
+			],
+			[
+				"pla",
+				"placeId"
+			],
+			[
+				"00",
+				"00:00:00"
+			],
+			[
+				"PHP_",
+				"PHP_EOL"
+			],
+			[
+				"macroCa",
+				"macroCategories\t(IndexController.php)"
+			],
+			[
+				"Item",
+				"ItemCategory"
+			],
+			[
+				"ignor",
+				"ignoreInvoice"
+			],
+			[
+				"he",
+				"head"
+			],
+			[
+				"refe",
+				"referralCode"
+			],
+			[
+				"payment",
+				"paymentCode"
+			],
+			[
+				"findFirst",
+				"findFirstById"
+			],
+			[
+				"Payment",
+				"Paymentgateway"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 329.0,
+		"last_filter": "git commit",
+		"selected_items":
+		[
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Sublimerge",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 652.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cosmy/workspace/git/prestashop-gtm-module/README.md",
+		"/Users/cosmy/Downloads/albini (1).mod",
+		"/Users/cosmy/Downloads/days_hist.js",
+		"/Users/cosmy/Desktop/foto cinesi valentina/index.html",
+		"/Users/cosmy/Desktop/foto cinesi valentina/script.js",
+		"/Users/cosmy/Desktop/foto cinesi valentina/style.css",
+		"/Users/cosmy/Downloads/min200801.js",
+		"/Users/cosmy/Downloads/min200801.csv",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/creapreventivo.php",
+		"/Users/cosmy/workspace/wp-config.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/template/template_fv.html",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/materiali.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/index_old.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/accessori.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/moduli.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/header.bak.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/header.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/lib/db/datasource.xml",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/lib/db/base.class.php",
+		"/Users/cosmy/Downloads/www.sunrisesrl.it/log/tintotest/days_hist.js",
+		"/Users/cosmy/Downloads/www.sunrisesrl.it/log/tintotest/days.js",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/preventivoluci_new.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/template/preventivoluci_new.php",
+		"/Users/cosmy/Downloads/solarLog/links.html.bak",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/creapreventivo_bak.php",
+		"/Users/cosmy/Downloads/solarLog/links.html",
+		"/Users/cosmy/Downloads/solarLog/README.md",
+		"/Users/cosmy/Downloads/solarLog/visu.html",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/lib/classes/preventivo_luci.class.php",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/min_day.js",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/links.html",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/visu.html",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/index_pc.html",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/menu.js",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/site_script.js",
+		"/Users/cosmy/Downloads/solarLog/site_script.js",
+		"/Users/cosmy/Downloads/solarLog/min_cur.js",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/lang_IT.js",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/min_cur.js",
+		"/Users/cosmy/Downloads/masotti.addns.org:8001/min.js",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/preventivo.php",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/template/template_pdf.html",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/template/template.html",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/proposta_luci.txt",
+		"/Users/cosmy/workspace/git/impleo-export/areariservata/lib/classes/preventivo.class.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/public/javascripts/wii/dataFormat.js",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/backend/views/order/manage.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/IndexController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/models/Category.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/views/index/index.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/models/Item.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/ItemController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/views/item/index.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/cron/Tasks/OrdersTask.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/cron/Module.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/Bootstrap.php",
+		"/Users/cosmy/workspace/git/waf/fwwaf/external/skidata.class.php",
+		"/Users/cosmy/workspace/git/waf/fwwaf/utils/mail.class.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Webservice/ClientWii.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/vendor/Expedia/Import.php",
+		"/Users/cosmy/workspace/docker/phalcon-compose/docker-compose.yml",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Webservice/Customer.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Webservice/Client.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/ConfirmController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Webservice/Cart.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Webservice/Order.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/webservice/controllers/CustomerController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/config/config.ini",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/urlmanager/UrlComponent.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/payment/PaymentComponent.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/config/config.local.ini",
+		"/Users/cosmy/workspace/git/BraveNewSystem/config/config.staging.ini",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/webservice/controllers/LegacyController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/api/controllers/BackendController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/config/assets/javascripts.backend.ini",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/grandemuseodelduomo/views/item/index.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/grandemuseodelduomo/partials/bigliettounico/bigliettounico.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/grandemuseodelduomo/partials/main/sidebar.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/views/item/item.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/skidata/DTA.php",
+		"/Users/cosmy/workspace/git/webservice/htdocs/insert_fidelity_card.php",
+		"/Users/cosmy/workspace/git/waf/fwwaf/utils/expedia.class.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/breadcrumbs/Breadcrumbs.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/config/loader.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/config/services.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/vendor/Mailup/Mailup.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/vendor/Barcodegen/Barcodegen.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/vendor/Google/googlemaps.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Barcodegen.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Utils/Mail.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/CategoryController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/models/OrderItem.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/models/Order.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/CustomerController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/cron/Tasks/CustomerTask.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/models/Customer.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/common/views/error/paymentko.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/ErrorController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/services/service-item.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/common/views/error/paymenterror.volt",
+		"/Users/cosmy/workspace/filp3/ptre/wp-content/themes/bridge/wpml-config.xml",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/SitemapController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/backend/controllers/OrderController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/frontend/common/controllers/PlaceController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/views/place/index.volt",
+		"/Users/cosmy/workspace/git/waf/waf20/htdocs/homepage.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/common/partials/elements/box-categoriaPlace.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/common/partials/elements/box-luogo.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/common/partials/elements/box-categoria.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/home/luoghi.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/backend/controllers/OpaController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/public/javascripts/wizardry.js",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/services/service-title.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/services/service-basic-list.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/services/service-history-list.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystemCRUD/app/models/Referral.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/phalcon/Price/FiscalClassComponent.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/queue/Workers/CustomerWorker.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/queue/Tasks/QueueTask.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/home/macrocategorie.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/home/luoghi-categorie.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/weekendinitaly/partials/home/categorie.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/templates/frontend/common/partials/elements/box-luogo-categoria.volt",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/backend/controllers/InvoiceController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/public/javascripts/gdm/prenotazioni.js",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/payment/controllers/TrivenetoController.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/app/payment/plugins/TrivenetoPlugin.php",
+		"/Users/cosmy/workspace/git/BraveNewSystem/lib/skidata/Skidata.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "forMen",
+		"selected_items":
+		[
+			[
+				"forMen",
+				"getCategoriesForMenu"
+			],
+			[
+				"forMenu",
+				"getItemsForMenu"
+			],
+			[
+				"checkNot",
+				"checkNotEmpty"
+			],
+			[
+				"getMacro",
+				"getMacroCategories"
+			]
+		],
+		"width": 788.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
